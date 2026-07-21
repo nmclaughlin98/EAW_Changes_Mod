@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<GroundStructures>
+
+	<GroundStructure Name="Empire_Anti_Aircraft_Turret">
+
+		<Variant_Of_Existing_Type> Abstract_Anti_Aircraft_Turret </Variant_Of_Existing_Type>
+		<Scale_Factor>1.25</Scale_Factor>
+		<Land_Model_Name>EB_AATURRET.ALO</Land_Model_Name>
+		<Icon_Name>i_button_e_anti_aircraft.tga</Icon_Name>
+
+		<Affiliation>Empire</Affiliation>
+
+		<Ranged_Target_Z_Adjust>8.0</Ranged_Target_Z_Adjust>
+
+		<Turret_Rotate_Speed>5.0</Turret_Rotate_Speed>
+	
+		<Blob_Shadow_Scale>40.0, 40.0</Blob_Shadow_Scale>
+		<Blob_Shadow_Material_Name>Square_Shadow</Blob_Shadow_Material_Name>
+		<SFXEvent_Sold_Tactical> EHD_Turret_Sold </SFXEvent_Sold_Tactical>
+		<SFXEvent_Turret_Rotating_Loop> Structure_Turret_Motor </SFXEvent_Turret_Rotating_Loop>	<!-- Event for turret while rotating to fire  -->
+
+	</GroundStructure>
+
+</GroundStructures>

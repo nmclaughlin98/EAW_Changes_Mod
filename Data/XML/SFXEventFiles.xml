@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+
+<SFXEvent_Files>
+
+    <!-- Presets must go first -->
+
+    <File> SFXEventPresets.xml </File>
+
+    <!-- Non-Preset Events come after presets -->
+
+	<!-- Mod Events -->
+
+	<File> MOD_SFXEvents_Sith_Lightsabers.xml </File>
+	<File> MOD_SFXEvents_UnitsHeroes_Yularen.xml </File>
+
+	<!-- Vanilla Events -->
+
+	<File> SFXEventsGUI.xml </File>
+	<File> SFXEventsHUD.xml </File>
+	<File> SFXEvents.xml </File>
+	<File> SFXEventsUnits.xml </File>
+	<File> SFXEventsCinematics.xml </File>
+
+	<File> SFXEventsAmbient.xml </File>
+	<File> SFXEventsBuildings.xml </File>
+
+	<File> SFXEventsUnitsCapital.xml </File>
+	<File> SFXEventsUnitsCorvettes.xml </File>
+	<File> SFXEventsUnitsFighters.xml </File>
+	<File> SFXEventsUnitsFrigates.xml </File>
+	<File> SFXEventsUnitsTransports.xml </File>
+	<File> SFXEventsUnitsGround.xml </File>
+
+	<File> SFXEventsUnitsRebelHeroes.xml </File>
+	<File> SFXEventsUnitsEmpireHeroes.xml </File>
+
+	<File> SFXEventsDeaths.xml </File>
+	<File> SFXEventsWeapons.xml </File>
+	<File> SFXEventsEngines.xml </File>
+	<File> SFXEventsFootsteps.xml </File>
+
+</SFXEvent_Files>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+
+<SFXEvents>	
+
+	<SFXEvent Name="Unit_Light_Saber_On_Sith">
+        <Use_Preset>Preset_GUN</Use_Preset>
+        <Samples>Data\Audio\SFX\Lightsaber\LS_On_Sith.wav</Samples>
+        <Min_Volume>75</Min_Volume>
+        <Max_Volume>75</Max_Volume>
+    </SFXEvent>
+
+	<SFXEvent Name="Unit_Light_Saber_Off_Sith">
+        <Use_Preset>Preset_GUN</Use_Preset>
+        <Samples>Data\Audio\SFX\Lightsaber\LS_Off_Sith.wav</Samples>
+        <Min_Volume>75</Min_Volume>
+        <Max_Volume>75</Max_Volume>
+    </SFXEvent>
+
+</SFXEvents>

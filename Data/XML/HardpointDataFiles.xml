@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+
+<Hard_Point_Files>
+	<File>HardPoints.xml</File>
+	<File>CIN_HardPoints.xml</File>
+
+	<!-- MOD Hardpoint Files -->
+
+	<File>MOD_Hardpoints_Venator.xml</File>
+	<File>MOD_Hardpoints_Empire_Y_Wing.xml</File>
+	<File>MOD_Hardpoints_Resolute_Venator_Class_Star_Destroyer.xml</File>
+	<File>MOD_Hardpoints_Interdictor.xml</File>
+
+</Hard_Point_Files>

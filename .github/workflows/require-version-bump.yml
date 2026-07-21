@@ -1,0 +1,55 @@
+name: Require version bump in PR
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  require_version_bump:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Skip check for release-notes branches
+        if: ${{ startsWith(github.head_ref, 'release-notes/') }}
+        run: |
+          echo "PR is from a release-notes branch; skipping VERSION check."
+
+      - name: Fetch main branch
+        if: ${{ !startsWith(github.head_ref, 'release-notes/') }}
+        run: git fetch origin main:main
+
+      - name: Check that VERSION was modified
+        if: ${{ !startsWith(github.head_ref, 'release-notes/') }}
+        env:
+          VERSION_FILE: VERSION
+        run: |
+          echo "Checking files changed against origin/main..."
+          files=$(git diff --name-only origin/main...HEAD || true)
+          echo "$files"
+          if echo "$files" | grep -qx "$VERSION_FILE"; then
+            echo "VERSION file modified — OK."
+            exit 0
+          else
+            # Get branch name from context
+            BRANCH="${{ github.head_ref }}"
+            # Get versions: main (from origin/main) and branch (local file)
+            main_version=$(git show origin/main:VERSION 2>/dev/null || echo "MISSING")
+            branch_version=$(cat VERSION 2>/dev/null || echo "MISSING")
+
+            echo "ERROR: Pull request must modify the $VERSION_FILE file to bump the version."
+            echo "Branch: $BRANCH"
+            echo "Main VERSION: $main_version"
+            echo "Branch VERSION: $branch_version"
+            echo ""
+            echo "Guidance: Update the $VERSION_FILE in this PR to a new version (e.g., bump patch/minor) so it differs from main."
+            exit 1
+          fi
