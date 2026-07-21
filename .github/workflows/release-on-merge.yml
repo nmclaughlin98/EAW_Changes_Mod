@@ -129,9 +129,12 @@ jobs:
               return `- ${t}`;
             }).filter(Boolean).join('\n');
 
-            // Prepare release notes content to append with heading format YYYY-MM-DD
+            // Prepare release notes content to append with heading format DD/MM/YYYY
             const now = new Date();
-            const dateStr = now.toISOString().slice(0,10);
+            const dd = String(now.getDate()).padStart(2, '0');
+            const mm = String(now.getMonth() + 1).padStart(2, '0');
+            const yyyy = now.getFullYear();
+            const dateStr = `${dd}/${mm}/${yyyy}`;
             const heading = `## ${tag} — ${dateStr}\n\n`;
             const newSection = heading + notesBody + '\n\n';
 
