@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+
+<SFXEvents>	
+
+	<SFXEvent Name="Unit_Attack_Yularen">
+		<Use_Preset>Preset_UR</Use_Preset>
+		<Samples>
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_00_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_01_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_02_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_03_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_04_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_05_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_06_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_07_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_08_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_09_ENG.wav
+		</Samples>
+		<Localize>Yes</Localize>
+		<Play_Sequentially>Yes</Play_Sequentially>
+		<Overlap_Test>Unit_Yularen</Overlap_Test>
+		<Text_ID>TEXT_SFX_GAT_ATTACK_1, TEXT_SFX_GAT_ATTACK_2, TEXT_SFX_GAT_ATTACK_3, TEXT_SFX_GAT_ATTACK_4, TEXT_SFX_GAT_ATTACK_5, TEXT_SFX_GAT_ATTACK_6, TEXT_SFX_GAT_ATTACK_7, TEXT_SFX_GAT_ATTACK_8, TEXT_SFX_GAT_ATTACK_9, TEXT_SFX_GAT_ATTACK_10</Text_ID>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Yularen">
+		<Use_Preset>Preset_UR</Use_Preset>
+		<Samples>
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_00_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_01_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_02_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_03_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_04_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_05_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_06_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_07_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_08_ENG.wav
+		</Samples>
+		<Localize>Yes</Localize>
+		<Play_Sequentially>Yes</Play_Sequentially>
+		<Overlap_Test>Unit_Yularen</Overlap_Test>
+		<Text_ID>TEXT_SFX_GAT_MOVE_1, TEXT_SFX_GAT_MOVE_2, TEXT_SFX_GAT_MOVE_3, TEXT_SFX_GAT_MOVE_4, TEXT_SFX_GAT_MOVE_5, TEXT_SFX_GAT_MOVE_6, TEXT_SFX_GAT_MOVE_7, TEXT_SFX_GAT_MOVE_8, TEXT_SFX_GAT_MOVE_9</Text_ID>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Fleet_Move_Yularen">
+		<Use_Preset>Preset_UR</Use_Preset>
+		<Samples>Data\Audio\SFX\Yularen\YULAREN_FLEETMOVE_00_ENG.wav</Samples>
+		<Localize>Yes</Localize>
+		<Play_Sequentially>Yes</Play_Sequentially>
+		<Overlap_Test>Unit_Yularen</Overlap_Test>
+		<Text_ID>TEXT_SFX_GAT_MOVE_1</Text_ID>
+	</SFXEvent>
+
+
+	<SFXEvent Name="Unit_Select_Yularen">
+		<Use_Preset>Preset_UR</Use_Preset>
+		<Samples>
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_00_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_01_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_02_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_03_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_04_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_05_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_06_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_07_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_08_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_09_ENG.wav
+		</Samples>
+		<Localize>Yes</Localize>
+		<Play_Sequentially>Yes</Play_Sequentially>
+		<Overlap_Test>Unit_Yularen</Overlap_Test>
+		<Text_ID>TEXT_SFX_GAT_SELECT_1, TEXT_SFX_GAT_SELECT_2, TEXT_SFX_GAT_SELECT_3, TEXT_SFX_GAT_SELECT_4, TEXT_SFX_GAT_SELECT_5, TEXT_SFX_GAT_SELECT_6, TEXT_SFX_GAT_SELECT_7, TEXT_SFX_GAT_SELECT_8, TEXT_SFX_GAT_SELECT_9, TEXT_SFX_GAT_SELECT_10</Text_ID>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Complete_Yularen">
+		<Use_Preset>Preset_UR</Use_Preset>
+		<Samples>Data\Audio\SFX\Yularen\YULAREN_RESPAWN_00_ENG.wav</Samples>
+		<Localize>Yes</Localize>
+		<Play_Sequentially>Yes</Play_Sequentially>
+		<Overlap_Test>Unit_Yularen</Overlap_Test>
+		<Text_ID>TEXT_SFX_GAT_SELECT_1</Text_ID>
+	</SFXEvent>
+
+
+	<SFXEvent Name="Unit_Focus_Yularen">
+		<Use_Preset>Preset_UR</Use_Preset>
+		<Samples>Data\Audio\SFX\Yularen\YULAREN_CONCENTRATE_00_ENG.wav</Samples>
+		<Localize>Yes</Localize>
+		<Play_Sequentially>Yes</Play_Sequentially>
+		<Overlap_Test>Unit_Yularen</Overlap_Test>
+		<Text_ID>TEXT_SFX_GAT_SELECT_1</Text_ID>
+	</SFXEvent>
+
+
+	<SFXEvent Name="Unit_Health_Low_Yularen">
+		<Use_Preset>Preset_UR</Use_Preset>
+		<Samples>Data\Audio\SFX\Yularen\YULAREN_LOW_HEALTH_00_ENG.wav</Samples>
+		<Localize>Yes</Localize>
+		<Play_Sequentially>Yes</Play_Sequentially>
+		<Overlap_Test>Unit_Yularen</Overlap_Test>
+		<Text_ID>TEXT_SFX_GAT_DEFEAT_2</Text_ID>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Health_Critcal_Yularen">
+		<Use_Preset>Preset_UR</Use_Preset>
+		<Samples>Data\Audio\SFX\Yularen\YULAREN_CRITICAL_HEALTH_00_ENG.wav</Samples>
+		<Localize>Yes</Localize>
+		<Play_Sequentially>Yes</Play_Sequentially>
+		<Overlap_Test>Unit_Yularen</Overlap_Test>
+		<Text_ID>TEXT_SFX_GAT_DEFEAT_2</Text_ID>
+	</SFXEvent>
+
+  
+</SFXEvents>
