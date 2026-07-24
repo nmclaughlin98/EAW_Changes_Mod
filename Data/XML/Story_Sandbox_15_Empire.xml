@@ -81,43 +81,43 @@ any sandbox campaign set.                                                       
 		<Prereq>Empire_AI_Heroes_05</Prereq>
 	</Event>
 
-	<Event Name="Empire_AI_Heroes_11">
+	<Event Name="Empire_AI_Heroes_07">
 		<Event_Type>STORY_TRIGGER</Event_Type>
 		<Reward_Type>UNIQUE_UNIT</Reward_Type>
 		<Reward_Param1>Resolute_Venator_Class_Star_Destroyer</Reward_Param1>
-		<Reward_Param2>Naboo</Reward_Param2>
+		<Reward_Param2>Corulag</Reward_Param2>
 		<Prereq>Empire_AI_Heroes_05</Prereq>
 	</Event>
 
 	<!-- Spawn Time Era 3 Heroes -->
 
-	<Event Name="Empire_AI_Heroes_07">
+	<Event Name="Empire_AI_Heroes_08">
 		<Event_Type>STORY_TECH_LEVEL</Event_Type>
 		<Event_Param1>3</Event_Param1>
 	</Event>
 
-	<Event Name="Empire_AI_Heroes_08">
+	<Event Name="Empire_AI_Heroes_09">
 		<Event_Type>STORY_TRIGGER</Event_Type>
 		<Reward_Type>UNIQUE_UNIT</Reward_Type>
 		<Reward_Param1>Accuser_Star_Destroyer</Reward_Param1>
 		<Reward_Param2>Corulag</Reward_Param2>
-		<Prereq>Empire_AI_Heroes_07</Prereq>
+		<Prereq>Empire_AI_Heroes_08</Prereq>
 	</Event>
 
 
 	<!-- Spawn Time Era 4 Heroes -->
 
-	<Event Name="Empire_AI_Heroes_09">
+	<Event Name="Empire_AI_Heroes_10">
 		<Event_Type>STORY_TECH_LEVEL</Event_Type>
 		<Event_Param1>4</Event_Param1>
 	</Event>
 
-	<Event Name="Empire_AI_Heroes_10">
+	<Event Name="Empire_AI_Heroes_11">
 		<Event_Type>STORY_TRIGGER</Event_Type>
 		<Reward_Type>SPAWN_HERO</Reward_Type>
 		<Reward_Param1>Darth_Team</Reward_Param1>
 		<Reward_Param2>Corulag</Reward_Param2>
-		<Prereq>Empire_AI_Heroes_09</Prereq>
+		<Prereq>Empire_AI_Heroes_10</Prereq>
 	</Event>
 
 </Story>

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <HardPoints>
     <HardPoint Name="HP_Y_WING_EMPIRE">
-        <Type> HARD_POINT_WEAPON_LASER </Type>
+        <Type>HARD_POINT_WEAPON_LASER</Type>
         <Is_Targetable>No</Is_Targetable>
         <Is_Destroyable>No</Is_Destroyable>
             
@@ -15,10 +15,10 @@
         <Fire_Pulse_Count>2</Fire_Pulse_Count>
         <Fire_Pulse_Delay_Seconds>0.2</Fire_Pulse_Delay_Seconds>
         <Fire_Range_Distance>500.0</Fire_Range_Distance>
-        <Fire_SFXEvent>Unit_Rebel_Ship_Laser_Fire</Fire_SFXEvent>
+        <Fire_SFXEvent>Unit_Empire_Ship_Laser_Fire</Fire_SFXEvent>
 
 			
-        <Damage_Type> Damage_Fighter </Damage_Type>
+        <Damage_Type>Damage_Fighter</Damage_Type>
         <Fire_Inaccuracy_Distance> Fighter, 5.0 </Fire_Inaccuracy_Distance>
         <Fire_Inaccuracy_Distance> Bomber, 5.0 </Fire_Inaccuracy_Distance>
         <Fire_Inaccuracy_Distance> Transport, 5.0 </Fire_Inaccuracy_Distance>
