@@ -87,10 +87,12 @@
 	<File>MOV_Cinematics.xml</File>
 
 	<!-- MOD Custom Expansion Units: Empire -->
+	<File>MOD_Containers.xml</File>
 	<File>MOD_Projectiles_Venator.xml</File>
 	<File>MOD_Projectiles_Empire_Y_Wing.xml</File>
 	<File>MOD_Units_Space_Empire_V_Wing.xml</File>
 	<File>MOD_Units_Space_Empire_Y_Wing.xml</File>
+	<File>MOD_Units_Space_Empire_Interdictor.xml</File>
 	<File>MOD_Units_Space_Empire_Venator_Class_Star_Destroyer.xml</File>
 	<File>MOD_Units_Hero_Empire_Yularen.xml</File>
 

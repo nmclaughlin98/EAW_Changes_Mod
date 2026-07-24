@@ -10,10 +10,10 @@
 	<SpaceUnit Name="V-Wing_Fighter_Empire">
 
 		<Text_ID>TEXT_UNIT_VWING_FIGHTER</Text_ID>
-		<Encyclopedia_Text>TEXT_TOOLTIP_V_WING_01</Encyclopedia_Text>
+		<Encyclopedia_Text>TEXT_TOOLTIP_V_WING_EMPIRE</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FIGHTER </Encyclopedia_Unit_Class>
-		<Encyclopedia_Good_Against> Starviper_Fighter X-wing </Encyclopedia_Good_Against>
-		<Encyclopedia_Vulnerable_To> Corellian_Corvette Crusader_Gunship Buzz_Droids </Encyclopedia_Vulnerable_To>
+		<Encyclopedia_Good_Against> Y-Wing Z-95_Headhunter_Rebel </Encyclopedia_Good_Against>
+		<Encyclopedia_Vulnerable_To> Corellian_Corvette X-wing A-Wing </Encyclopedia_Vulnerable_To>
 		<Space_Model_Name>NV_VWING.ALO</Space_Model_Name>
 		<Icon_Name>i_button_V_Wing.tga</Icon_Name>
 
@@ -156,10 +156,10 @@
 
 	<Squadron Name="V-Wing_Fighter_Empire_Squadron">
 		<Text_ID>TEXT_VWING_SQUADRON</Text_ID>
-		<Encyclopedia_Text>TEXT_TOOLTIP_V_WING_02</Encyclopedia_Text>
+		<Encyclopedia_Text>TEXT_TOOLTIP_V_WING_EMPIRE</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FIGHTER </Encyclopedia_Unit_Class>
-		<Encyclopedia_Good_Against> Starviper_Fighter X-wing </Encyclopedia_Good_Against>
-		<Encyclopedia_Vulnerable_To> Corellian_Corvette Crusader_Gunship Buzz_Droids </Encyclopedia_Vulnerable_To>
+		<Encyclopedia_Good_Against> Y-Wing Z-95_Headhunter_Rebel </Encyclopedia_Good_Against>
+		<Encyclopedia_Vulnerable_To> Corellian_Corvette X-wing A-Wing </Encyclopedia_Vulnerable_To>
 		<Icon_Name>i_button_V_Wing.tga</Icon_Name>
 		
 		<GUI_Row> 1 </GUI_Row>

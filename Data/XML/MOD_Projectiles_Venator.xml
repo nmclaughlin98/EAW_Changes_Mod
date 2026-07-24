@@ -29,14 +29,14 @@
 		<Projectile_SFXEvent_Detonate> SFX_Small_Damage_Detonation </Projectile_SFXEvent_Detonate>
 		<Projectile_SFXEvent_Detonate_Reduced_By_Armor> SFX_Small_Damage_Detonation </Projectile_SFXEvent_Detonate_Reduced_By_Armor>
 	</Projectile>
-	
+
 	<Projectile Name="Proj_Ship_Turbolaser_Blue_Dummy">
 		<Variant_Of_Existing_Type>Proj_Ship_Turbolaser_Blue</Variant_Of_Existing_Type>
 		<Projectile_Damage>0.0</Projectile_Damage>
 	</Projectile>
 
 	<Projectile Name="Proj_Ship_Laser_Medium_Blue">
-	<Space_Model_Name>W_Laser_Bl.alo</Space_Model_Name>
+		<Space_Model_Name>W_Laser_Bl.alo</Space_Model_Name>
 		<Text_ID>TEXT_NONE</Text_ID>
 		<Scale_Factor>0.3</Scale_Factor>
 		<Damage_Type>Damage_Turbolaser</Damage_Type>
@@ -59,10 +59,10 @@
 		<Projectile_SFXEvent_Detonate>SFX_Small_Damage_Detonation</Projectile_SFXEvent_Detonate>
 		<Projectile_SFXEvent_Detonate_Reduced_By_Armor>SFX_Small_Damage_Detonation</Projectile_SFXEvent_Detonate_Reduced_By_Armor>
 	</Projectile>
-    
-    <Projectile Name="Proj_Ship_Large_Laser_Cannon_Blue_Dummy">
-        <Variant_Of_Existing_Type>Proj_Ship_Large_Laser_Cannon_Blue</Variant_Of_Existing_Type>
-        <Projectile_Damage>0.0</Projectile_Damage>
-    </Projectile>	
+
+	<Projectile Name="Proj_Ship_Large_Laser_Cannon_Blue_Dummy">
+		<Variant_Of_Existing_Type>Proj_Ship_Large_Laser_Cannon_Blue</Variant_Of_Existing_Type>
+		<Projectile_Damage>0.0</Projectile_Damage>
+	</Projectile>
 
 </Projectiles>

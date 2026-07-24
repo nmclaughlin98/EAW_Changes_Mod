@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 
-<SFXEvents>	
+<SFXEvents>
 
 	<SFXEvent Name="Unit_Attack_Yularen">
 		<Use_Preset>Preset_UR</Use_Preset>
 		<Samples>
-			Data\Audio\SFX\Yularen\YULAREN_ATTACK_00_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_ATTACK_01_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_ATTACK_02_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_ATTACK_03_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_ATTACK_04_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_ATTACK_05_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_ATTACK_06_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_ATTACK_07_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_ATTACK_08_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_00_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_01_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_02_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_03_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_04_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_05_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_06_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_07_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_ATTACK_08_ENG.wav
 			Data\Audio\SFX\Yularen\YULAREN_ATTACK_09_ENG.wav
 		</Samples>
 		<Localize>Yes</Localize>
@@ -25,13 +25,13 @@
 	<SFXEvent Name="Unit_Move_Yularen">
 		<Use_Preset>Preset_UR</Use_Preset>
 		<Samples>
-			Data\Audio\SFX\Yularen\YULAREN_MOVE_00_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_MOVE_01_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_MOVE_02_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_MOVE_03_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_MOVE_04_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_MOVE_05_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_MOVE_06_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_00_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_01_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_02_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_03_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_04_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_05_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_MOVE_06_ENG.wav
 			Data\Audio\SFX\Yularen\YULAREN_MOVE_07_ENG.wav
 			Data\Audio\SFX\Yularen\YULAREN_MOVE_08_ENG.wav
 		</Samples>
@@ -54,15 +54,15 @@
 	<SFXEvent Name="Unit_Select_Yularen">
 		<Use_Preset>Preset_UR</Use_Preset>
 		<Samples>
-			Data\Audio\SFX\Yularen\YULAREN_SELECT_00_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_SELECT_01_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_SELECT_02_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_SELECT_03_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_SELECT_04_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_SELECT_05_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_SELECT_06_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_SELECT_07_ENG.wav 
-			Data\Audio\SFX\Yularen\YULAREN_SELECT_08_ENG.wav 
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_00_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_01_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_02_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_03_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_04_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_05_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_06_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_07_ENG.wav
+			Data\Audio\SFX\Yularen\YULAREN_SELECT_08_ENG.wav
 			Data\Audio\SFX\Yularen\YULAREN_SELECT_09_ENG.wav
 		</Samples>
 		<Localize>Yes</Localize>
@@ -109,5 +109,5 @@
 		<Text_ID>TEXT_SFX_GAT_DEFEAT_2</Text_ID>
 	</SFXEvent>
 
-  
+
 </SFXEvents>

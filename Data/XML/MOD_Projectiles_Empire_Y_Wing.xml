@@ -25,8 +25,7 @@
     </Projectile>
 
 	
-    <Projectile Name="Proj_Ship_Small_Laser_Cannon_Blue" 
-    dDescription="Rebel small space-based laser bolt">
+    <Projectile Name="Proj_Ship_Small_Laser_Cannon_Blue2" Description="Rebel small space-based laser bolt">
         <Variant_Of_Existing_Type>Proj_Ship_Small_Laser_Cannon_Generic</Variant_Of_Existing_Type>
         <Space_Model_Name>W_LASER_SMALL.ALO</Space_Model_Name>
         <Projectile_Texture_Slot>0,1</Projectile_Texture_Slot>
