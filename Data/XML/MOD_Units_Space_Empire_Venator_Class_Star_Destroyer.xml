@@ -9,13 +9,13 @@
         <GUI_Row> 1 </GUI_Row>
         <Space_Model_Name>NV_JEDICRUISER.ALO</Space_Model_Name>
 
-        <Ranking_In_Category>5</Ranking_In_Category>
+        <Ranking_In_Category>6</Ranking_In_Category>
 
-        <GUI_Bracket_Height>500</GUI_Bracket_Height>
+        <GUI_Bracket_Height>280</GUI_Bracket_Height>
         <GUI_Bracket_Size>2</GUI_Bracket_Size>
 
-        <Select_Box_Scale>300</Select_Box_Scale>
-        <Select_Box_Z_Adjust>-10</Select_Box_Z_Adjust>
+        <Select_Box_Scale>220</Select_Box_Scale>
+        <Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 
         <Scale_Factor>1.9</Scale_Factor>
         <Mass>0.9995</Mass>
@@ -45,23 +45,24 @@
         <Tech_Level>99</Tech_Level>
         <Required_Timeline>0</Required_Timeline>
         <Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-        <Required_Star_Base_Level>1</Required_Star_Base_Level>
+        <Required_Star_Base_Level>3</Required_Star_Base_Level>
         <Required_Special_Structures />
         <!-- <Required_Planets>MonCalimari, Kuat, Fondor, Sullust, Hypori, Mandalore</Required_Planets> -->
+        <Formation_Priority>5</Formation_Priority>
         <Required_Planets />
-        <Damage>45</Damage>
+        <Damage>60</Damage>
         <Autoresolve_Health>6500</Autoresolve_Health>
-        <Shield_Points>1500</Shield_Points>
+        <Shield_Points>1700</Shield_Points>
         <Tactical_Health>5500</Tactical_Health>
         <Shield_Refresh_Rate>40</Shield_Refresh_Rate>
         <Energy_Capacity>6500</Energy_Capacity>
-        <Energy_Refresh_Rate>100</Energy_Refresh_Rate>
+        <Energy_Refresh_Rate>500</Energy_Refresh_Rate>
         <Ship_Class>capital</Ship_Class>
 
         <!-- <Political_Control>1</Political_Control> -->
         <Political_Faction>Empire</Political_Faction>
         <Squadron_Capacity>40</Squadron_Capacity>
-        <Build_Cost_Credits>1000</Build_Cost_Credits><!-- TEMP -->
+        <Build_Cost_Credits>1000</Build_Cost_Credits>        <!-- TEMP -->
         <Piracy_Value_Credits>250</Piracy_Value_Credits>
         <AI_Combat_Power>5900</AI_Combat_Power>
         <Build_Time_Seconds>5</Build_Time_Seconds>
@@ -218,7 +219,7 @@
 
     <SpaceUnit Name="Venator_Class_Star_Destroyer">
         <Variant_Of_Existing_Type>Generic_Venator_Class_Star_Destroyer</Variant_Of_Existing_Type>
-        <Tech_Level>2</Tech_Level>
+        <Tech_Level>3</Tech_Level>
 
         <HardPoints>
             HP_Venator_Class_SD_Shield_Gen,

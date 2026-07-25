@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+
+<SpecialStructures>
+
+	<SpecialStructure Name="Template_Galactic_Turbolaser_Tower_Defenses_Cheese">
+		<Text_ID>TEXT_TURBOLASER_DEFENSE_UPGRADE</Text_ID>
+		<Encyclopedia_Text> TEXT_ENCYCLOPEDIA_TURBOLASER_DEFENSE  </Encyclopedia_Text>
+		<Encyclopedia_Unit_Class>TEXT_ENCYCLOPEDIA_CLASS_TURRET</Encyclopedia_Unit_Class>
+
+		<GUI_Row> 0 </GUI_Row>
+		<Affiliation />
+		<Land_Model_Name>EB_TLTower.ALO</Land_Model_Name>
+		<Is_Dummy>No</Is_Dummy>
+		<Behavior>SELECTABLE, DUMMY_GROUND_STRUCTURE</Behavior>
+
+		<GUI_Bracket_Size>2</GUI_Bracket_Size>
+		<GUI_Bounds_Scale>0.7</GUI_Bounds_Scale>
+		<AI_Combat_Power>1500</AI_Combat_Power>
+
+		<!-- All derived types need to specify a value for this entry that corresponds to the correct tactical Turbolaser Tower type for that faction. -->
+		<!--<Place_Other_Type_At_Every_Specific_Marker_Position>Template_Ground_Turbolaser_Tower</Place_Other_Type_At_Every_Specific_Marker_Position>-->
+		<Tactical_Additional_Structure_Type>Power_Generator_E</Tactical_Additional_Structure_Type>
+		<Damage>300</Damage>
+		<Mass>1.0</Mass>
+		<SFXEvent_Build_Cancelled>EHD_Building_Canceled</SFXEvent_Build_Cancelled>
+		<Political_Control>0</Political_Control>
+		<Build_Cost_Credits>100</Build_Cost_Credits>
+		<Build_Time_Seconds>5</Build_Time_Seconds>
+		<Build_Tab_Special_Structures>Yes</Build_Tab_Special_Structures>
+		<Build_Max_Instances_Per_Planet> 1 </Build_Max_Instances_Per_Planet>
+		<Size_Value>50</Size_Value>
+		<Build_Initially_Locked>Yes</Build_Initially_Locked>
+		<Base_Position>In_Base</Base_Position>
+		<Tech_Level>99</Tech_Level>
+		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
+		<Required_Timeline>0</Required_Timeline>
+		<Required_Star_Base_Level>0</Required_Star_Base_Level>
+		<Required_Planets />
+		<Icon_Name>i_button_turbolaser_tower.tga</Icon_Name>
+
+		<Sabotage_Cost_Credits>8000</Sabotage_Cost_Credits>
+
+		<CategoryMask> Structure | AntiVehicle</CategoryMask>
+		<Score_Cost_Credits> 20000 </Score_Cost_Credits>
+		<Property_Flags>InBase</Property_Flags>
+	</SpecialStructure>
+
+
+	<SpecialStructure Name="E_Galactic_Turbolaser_Tower_Defenses">
+		<Variant_Of_Existing_Type>Template_Galactic_Turbolaser_Tower_Defenses_Cheese</Variant_Of_Existing_Type>
+
+		<Affiliation>Empire</Affiliation>
+		<Build_Initially_Locked>No</Build_Initially_Locked>
+		<Tech_Level>2</Tech_Level>
+		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
+		<Required_Star_Base_Level>0</Required_Star_Base_Level>
+		<Tactical_Additional_Structure_Type>Power_Generator_E</Tactical_Additional_Structure_Type>
+
+		<!-- When one of these objects is created in galactic mode, we will populate every marker in land mode
+		that is a specific marker for E_Ground_Turbolaser_Tower. The galactic object will persist unless all
+		instances of those tactical objects have been destroyed. -->
+		<Place_Other_Type_At_Every_Specific_Marker_Position>E_Ground_Turbolaser_Tower</Place_Other_Type_At_Every_Specific_Marker_Position>
+
+		<SFXEvent_Build_Started>EHD_Build_Structure</SFXEvent_Build_Started>
+		<SFXEvent_Build_Complete>EHD_Construction_Complete</SFXEvent_Build_Complete>
+	</SpecialStructure>
+
+
+</SpecialStructures>

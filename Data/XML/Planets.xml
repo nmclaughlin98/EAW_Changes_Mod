@@ -4,7 +4,7 @@
 	<Planet Name="Galaxy_Core_Art_Model">
 		<Text_ID />
 		<Galactic_Model_Name>w_galaxy00.alo</Galactic_Model_Name>
-      <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.0</Scale_Factor>
@@ -24,7 +24,7 @@
 	</Planet>
 
 
-<!-- 
+	<!-- 
 
 		NOTE: Planet Capture Bonus = (Max_Ground_Base + Max_Space_Base) x 2000
 
@@ -43,10 +43,10 @@
 -->
 
 	<Planet Name="Abregado_Rae">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ABREGADORAE</Text_ID>
 		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
-		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>		
+		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
@@ -84,7 +84,7 @@
 		<Describe_Weather>TEXT_PLANET_ABREGADORAE_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ABREGADORAE_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ABREGADORAE_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ABREGADORAE_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ABREGADORAE_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name> TEXT_PLANET_ABREGADORAE_INFO_ADV_01 </Planet_Ability_Name>
 		<Planet_Ability_Description> TEXT_PLANET_ABREGADORAE_ENCYC_01 </Planet_Ability_Description>
@@ -113,9 +113,9 @@
 	</Planet>
 
 	<Planet Name="AetenII">
- 		<Zoomed_Terrain_Index>3</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>3</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_AETENII</Text_ID>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Galactic_Model_Name>W_planet_Volcanic01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
@@ -148,14 +148,14 @@
 		<Planet_Tech_Availability_Rating>0</Planet_Tech_Availability_Rating>
 		<Planet_Slice_Affinity_Types>Rebel_Ground_Mining_Facility</Planet_Slice_Affinity_Types>
 		<Planet_Is_Mining_Colony>Yes</Planet_Is_Mining_Colony>
-		
+
 		<Describe_Population>TEXT_PLANET_AETENII_INFO_POP</Describe_Population>
 		<Describe_Wildlife>TEXT_PLANET_AETENII_INFO_WL</Describe_Wildlife>
 		<Describe_Terrain>TEXT_PLANET_AETENII_INFO_TER</Describe_Terrain>
 		<Describe_Weather>TEXT_PLANET_AETENII_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_AETENII_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_AETENII_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_AETENII_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description> TEXT_PLANET_BONADAN_ENCYC_01 </Planet_Ability_Description>
@@ -166,13 +166,13 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_ASH</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_desert.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
 
 	<Planet Name="Alderaan">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ALDERAAN</Text_ID>
 		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
@@ -213,7 +213,7 @@
 		<Describe_Weather>TEXT_PLANET_ALDERAAN_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ALDERAAN_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ALDERAAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ALDERAAN_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ALDERAAN_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ALDERAAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_AALDERAAN_ENCYC_01</Planet_Ability_Description>
@@ -237,7 +237,7 @@
 	</Planet>
 
 	<Planet Name="AlzocIII">
- 		<Zoomed_Terrain_Index>4</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>4</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ALZOCIII</Text_ID>
 		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
@@ -279,7 +279,7 @@
 		<Describe_Weather>TEXT_PLANET_ALZOCIII_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ALZOCIII_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ALZOCIII_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ALZOCIII_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BONADAN_ENCYC_01</Planet_Ability_Description>
@@ -289,15 +289,15 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SNOW</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SNOW</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
 
 	<Planet Name="Anaxes">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ANAXES</Text_ID>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
@@ -336,7 +336,7 @@
 		<Describe_Weather>TEXT_PLANET_ANAXES_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ANAXES_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ANAXES_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ANAXES_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ANAXES_ENCYC_01</Planet_Ability_Description>
@@ -347,7 +347,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 		<Potential_Indigenous_Power>Urban_Civilian_A, 400</Potential_Indigenous_Power>
 
@@ -364,9 +364,9 @@
 	</Planet>
 
 	<Planet Name="Atzerri">
- 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ATZERRI</Text_ID>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Galactic_Model_Name>W_planet_Swamp01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
@@ -406,7 +406,7 @@
 		<Describe_Weather>TEXT_PLANET_ATZERRI_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ATZERRI_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ATZERRI_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ATZERRI_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ATZERRI_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ATZERRI_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ATZERRI_ENCYC_01</Planet_Ability_Description>
@@ -417,16 +417,16 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_black_market_influences.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 50</Potential_Indigenous_Power>
 
 	</Planet>
 
 	<Planet Name="Bespin">
- 		<Zoomed_Terrain_Index>8</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>8</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_BESPIN</Text_ID>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Galactic_Model_Name>W_planet_Gas01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
@@ -465,7 +465,7 @@
 		<Describe_Weather>TEXT_PLANET_BESPIN_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_BESPIN_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_BESPIN_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_BESPIN_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description> TEXT_PLANET_BONADAN_ENCYC_01 </Planet_Ability_Description>
@@ -476,15 +476,15 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
 
 	<Planet Name="Bestine">
- 		<Zoomed_Terrain_Index>7</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>7</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_BESTINE</Text_ID>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Galactic_Model_Name>W_planet_Ocean01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
@@ -523,7 +523,7 @@
 		<Describe_Weather>TEXT_PLANET_BESTINE_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_BESTINE_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BESTINE_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_BESTINE_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_BESTINE_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BESTINE_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BESTINE_ENCYC_01</Planet_Ability_Description>
@@ -534,7 +534,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="Yes">
@@ -550,9 +550,9 @@
 	</Planet>
 
 	<Planet Name="Bonadan">
- 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_BONADAN</Text_ID>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Galactic_Model_Name>W_planet_bonadan_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
@@ -590,7 +590,7 @@
 		<Describe_Weather>TEXT_PLANET_BONADAN_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_BONADAN_INFO_ADV</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_BONADAN_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_BONADAN_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BONADAN_ENCYC_01</Planet_Ability_Description>
@@ -601,18 +601,18 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-				
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
 
 	<Planet Name="Bothawui">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_BOTHAWUI</Text_ID>
 		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -675,7 +675,7 @@
 		<Describe_Weather>TEXT_PLANET_BOTHAWUI_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_BOTHAWUI_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BOTHAWUI_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_BOTHAWUI_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_BOTHAWUI_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BOTHAWUI_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BOTHAWUI_ENCYC_01</Planet_Ability_Description>
@@ -686,18 +686,18 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_spy_network.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_bothan.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
 
 	<Planet Name="Byss">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_BYSS</Text_ID>
 		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -732,7 +732,7 @@
 		<Describe_Weather>TEXT_PLANET_BYSS_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_BYSS_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BYSS_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_BYSS_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_BYSS_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BYSS_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BYSS_ENCYC_01</Planet_Ability_Description>
@@ -743,7 +743,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_improved_atat_reactors.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 100</Potential_Indigenous_Power>
@@ -757,12 +757,12 @@
 	</Planet>
 
 	<Planet Name="Carida">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_CARIDA</Text_ID>
 		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -798,7 +798,7 @@
 		<Describe_Weather>TEXT_PLANET_CORUSCANT_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_CARIDA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_CARIDA_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_CARIDA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_CARIDA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_CARIDA_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_CARIDA_ENCYC_01</Planet_Ability_Description>
@@ -809,7 +809,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 150</Potential_Indigenous_Power>
@@ -828,12 +828,12 @@
 	</Planet>
 
 	<Planet Name="Corellia">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_CORELLIA</Text_ID>
 		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -868,7 +868,7 @@
 		<Describe_Weather>TEXT_PLANET_CORELLIA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_CORELLIA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_CORELLIA_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_CORELLIA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_CORELLIA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_CORELLIA_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_CORELLIA_ENCYC_01</Planet_Ability_Description>
@@ -879,7 +879,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 250</Potential_Indigenous_Power>
@@ -897,12 +897,12 @@
 	</Planet>
 
 	<Planet Name="Corulag">
- 		<Zoomed_Terrain_Index>5</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>5</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_CORULAG</Text_ID>
 		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -937,7 +937,7 @@
 		<Describe_Weather>TEXT_PLANET_CORULAG_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_CORULAG_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_CORULAG_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_CORULAG_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_CORULAG_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_CORULAG_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_CORULAG_ENCYC_01</Planet_Ability_Description>
@@ -948,7 +948,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Urban_Civilian_A, 450</Potential_Indigenous_Power>
@@ -966,12 +966,12 @@
 	</Planet>
 
 	<Planet Name="Coruscant">
- 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_CORUSCANT</Text_ID>
 		<Galactic_Model_Name>W_planet_Urban01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Urban01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1006,7 +1006,7 @@
 		<Describe_Weather>TEXT_PLANET_CORUSCANT_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_CORUSCANT_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_CORUSCANT_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_CORUSCANT_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BONADAN_ENCYC_01</Planet_Ability_Description>
@@ -1017,7 +1017,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>
@@ -1026,12 +1026,12 @@
 	</Planet>
 
 	<Planet Name="Dagobah">
- 		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>2</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_DAGOBAH</Text_ID>
 		<Galactic_Model_Name>W_planet_dagobah_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Swamp01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1066,7 +1066,7 @@
 		<Describe_Weather>TEXT_PLANET_DAGOBAH_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_DAGOBAH_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_DAGOBAH_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_DAGOBAH_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_DAGOBAH_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_DAGOBAH_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_GROUND_BASE_STEALTH_DESC</Planet_Ability_Description>
@@ -1076,18 +1076,18 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_base_stealth_ground.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
 
 	<Planet Name="Dantooine">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_DANTOOINE</Text_ID>
 		<Galactic_Model_Name>W_planet_Dantooine01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Dantooine01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1123,7 +1123,7 @@
 		<Describe_Weather>TEXT_PLANET_DANTOOINE_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_DANTOOINE_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_DAGOBAH_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_DANTOOINE_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_DANTOOINE_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_DAGOBAH_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_GROUND_BASE_STEALTH_DESC</Planet_Ability_Description>
@@ -1134,21 +1134,21 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_base_stealth_ground.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
-		
+
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 150</Potential_Indigenous_Power>
-		
+
 	</Planet>
 
 
 	<Planet Name="Endor">
- 		<Zoomed_Terrain_Index>5</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>5</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ENDOR</Text_ID>
 		<Galactic_Model_Name>W_planet_endor_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.3</Scale_Factor>
@@ -1183,7 +1183,7 @@
 		<Describe_Weather>TEXT_PLANET_ENDOR_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ENDOR_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ENDOR_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ENDOR_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ENDOR_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ENDOR_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ENDOR_ENCYC_01</Planet_Ability_Description>
@@ -1194,9 +1194,9 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_light_armor_plating.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_ewok.tga</Native_Icon_Name>
-		
+
 		<Potential_Indigenous_Power>Ewok_Hunter, 1600</Potential_Indigenous_Power>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="Yes">
@@ -1208,12 +1208,12 @@
 	</Planet>
 
 	<Planet Name="Eriadu">
- 		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ERIADU</Text_ID>
 		<Galactic_Model_Name>W_planet_eriadu_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Urban01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1249,7 +1249,7 @@
 		<Describe_Weather>TEXT_PLANET_ERIADU_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ERIADU_ENCYC_01</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ERIADU_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ERIADU_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ERIADU_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ERIADU_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ERIADU_ENCYC_01</Planet_Ability_Description>
@@ -1260,7 +1260,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Urban_Civilian_A, 150</Potential_Indigenous_Power>
@@ -1278,12 +1278,12 @@
 	</Planet>
 
 	<Planet Name="Fondor">
- 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_FONDOR</Text_ID>
 		<Galactic_Model_Name>W_planet_Urban01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Urban01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1318,7 +1318,7 @@
 		<Describe_Weather>TEXT_PLANET_TATOOINE_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_FONDOR_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_FONDOR_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_FONDOR_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_FONDOR_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_FONDOR_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_FONDOR_ENCYC_01</Planet_Ability_Description>
@@ -1329,7 +1329,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_WIND</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Urban_Civilian_A, 200</Potential_Indigenous_Power>
@@ -1347,12 +1347,12 @@
 	</Planet>
 
 	<Planet Name="Fresia">
- 		<Zoomed_Terrain_Index>7</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>7</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_FRESIA</Text_ID>
 		<Galactic_Model_Name>W_planet_Ocean01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Ocean01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1388,7 +1388,7 @@
 		<Describe_Weather>TEXT_PLANET_FRESIA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_FRESIA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_FRESIA_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_FRESIA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_FRESIA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_FRESIA_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_FRESIA_ENCYC_01</Planet_Ability_Description>
@@ -1399,7 +1399,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 150</Potential_Indigenous_Power>
@@ -1417,12 +1417,12 @@
 	</Planet>
 
 	<Planet Name="Geonosis">
- 		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_GEONOSIS</Text_ID>
 		<Galactic_Model_Name>W_planet_geonosis_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Volcanic01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1457,7 +1457,7 @@
 		<Describe_Weather>TEXT_PLANET_GEONOSIS_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_GEONOSIS_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_GEONOSIS_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_GEONOSIS_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_GEONOSIS_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_GEONOSIS_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_GEONOSIS_ENCYC_01</Planet_Ability_Description>
@@ -1468,11 +1468,11 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_geonosian.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Geonosian, 1200</Potential_Indigenous_Power>
-		
+
 		<Abilities SubObjectList="Yes">
 			<Reduce_Production_Price_Ability Name="Geonosis_MPTL_Production_Boost">
 				<Unit_Strength_Category />
@@ -1486,12 +1486,12 @@
 	</Planet>
 
 	<Planet Name="Hoth">
- 		<Zoomed_Terrain_Index>4</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>4</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_HOTH</Text_ID>
 		<Galactic_Model_Name>W_planet_hoth_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Ice01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.6</Scale_Factor>
@@ -1527,7 +1527,7 @@
 		<Describe_Weather>TEXT_PLANET_HOTH_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_HOTH_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_HOTH_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_HOTH_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_HOTH_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_HOTH_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_GROUND_BASE_STEALTH_DESC</Planet_Ability_Description>
@@ -1537,7 +1537,7 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SNOW</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SNOW</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_base_stealth_ground.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Wampa, 2000</Potential_Indigenous_Power>
@@ -1545,12 +1545,12 @@
 	</Planet>
 
 	<Planet Name="Ilum">
- 		<Zoomed_Terrain_Index>4</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>4</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_ILUM</Text_ID>
 		<Galactic_Model_Name>W_planet_Ice01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Ice01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1568,7 +1568,7 @@
 		<Galactic_Position>-80.0, 110.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
 		<Special_Structures_Space>0</Special_Structures_Space>
-		<Max_Space_Base>1</Max_Space_Base>
+		<Max_Space_Base>2</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
@@ -1585,7 +1585,7 @@
 		<Describe_Weather>TEXT_PLANET_ILUM_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_ILUM_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_ILUM_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_ILUM_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_ILUM_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_ILUM_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ILUM_ENCYC_01</Planet_Ability_Description>
@@ -1595,7 +1595,7 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SNOW</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SNOW</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="Yes">
@@ -1611,12 +1611,12 @@
 	</Planet>
 
 	<Planet Name="Jabiim">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_JABIIM</Text_ID>
 		<Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1640,7 +1640,7 @@
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
 		<Space_Tactical_Map>_Space_Planet_Jabiim_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Jabiim_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1000 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>1</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>2</Planet_Tech_Availability_Rating>
@@ -1657,7 +1657,7 @@
 		<Describe_Weather>TEXT_PLANET_JABIIM_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_JABIIM_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_JABIIM_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_JABIIM_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_JABIIM_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_JABIIM_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_JABIIM_RESTRICTION</Planet_Ability_Description>
@@ -1668,7 +1668,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_restricted_units.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 250</Potential_Indigenous_Power>
@@ -1676,12 +1676,12 @@
 	</Planet>
 
 	<Planet Name="Kamino">
- 		<Zoomed_Terrain_Index>7</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>7</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_KAMINO</Text_ID>
 		<Galactic_Model_Name>W_planet_kamino_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Ocean01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1716,14 +1716,14 @@
 		<Describe_Weather>TEXT_PLANET_KAMINO_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_KAMINO_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_KAMINO_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_KAMINO_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_KAMINO_INFO_HIS_01</Describe_History>
 
 		<Encyclopedia_Text> TEXT_PLANET_KAMINO_ENCYC </Encyclopedia_Text>
 		<Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_weather_rain.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="Yes">
@@ -1739,12 +1739,12 @@
 	</Planet>
 
 	<Planet Name="Kashyyyk">
- 		<Zoomed_Terrain_Index>5</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>5</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_KASHYYYK</Text_ID>
 		<Galactic_Model_Name>W_planet_Forest01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1780,7 +1780,7 @@
 		<Describe_Weather>TEXT_PLANET_KASHYYYK_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_KASHYYYK_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_KASHYYYK_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_KASHYYYK_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_KASHYYYK_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_KASHYYYK_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_GROUND_BASE_STEALTH_DESC</Planet_Ability_Description>
@@ -1793,18 +1793,18 @@
 		<Native_Icon_Name>load_wookie.tga</Native_Icon_Name>
 
 		<Potential_Indigenous_Power>Wookie_Warrior, 800</Potential_Indigenous_Power>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
 
 	<Planet Name="Kessel">
- 		<Zoomed_Terrain_Index>7</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>7</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_KESSEL</Text_ID>
 		<Galactic_Model_Name>W_planet_Kessel_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Kessel_low.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1838,7 +1838,7 @@
 		<Describe_Weather>TEXT_PLANET_KESSEL_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_KESSEL_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_KESSEL_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_KESSEL_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BONADAN_ENCYC_01</Planet_Ability_Description>
@@ -1849,18 +1849,18 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
 
 	<Planet Name="Korriban">
- 		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_KORRIBAN</Text_ID>
 		<Galactic_Model_Name>W_planet_Korriban01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Korriban01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.4</Scale_Factor>
@@ -1895,7 +1895,7 @@
 		<Describe_Weather>TEXT_PLANET_KORRIBAN_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_KORRIBAN_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_KORRIBAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_KORRIBAN_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_KORRIBAN_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_KORRIBAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_KORRIBAN_ENCYC_01</Planet_Ability_Description>
@@ -1906,7 +1906,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_desert.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Desert_Civilian_A, 150</Potential_Indigenous_Power>
@@ -1924,12 +1924,12 @@
 	</Planet>
 
 	<Planet Name="Kuat">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_KUAT</Text_ID>
 		<Galactic_Model_Name>W_planet_Kuat_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Kuat_low.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -1951,10 +1951,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Kuat_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Kuat_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1800 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>4</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>5</Planet_Tech_Availability_Rating>
@@ -1966,7 +1966,7 @@
 		<Describe_Weather>TEXT_PLANET_KUAT_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_KUAT_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_KUAT_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_KUAT_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_KUAT_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_KUAT_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_KUAT_ENCYC_01</Planet_Ability_Description>
@@ -1977,7 +1977,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 50</Potential_Indigenous_Power>
@@ -1995,12 +1995,12 @@
 	</Planet>
 
 	<Planet Name="Manaan">
- 		<Zoomed_Terrain_Index>7</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>7</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_MANAAN</Text_ID>
 		<Galactic_Model_Name>W_planet_Kamino_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Ocean01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -2036,7 +2036,7 @@
 		<Describe_Weather>TEXT_PLANET_MANAAN_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_MANAAN_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_MANAAN_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_MANAAN_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_MANAAN_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_MANAAN_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_MANAAN_HEAL</Planet_Ability_Description>
@@ -2046,18 +2046,18 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_tactical_heal_Infantry.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
 
 	<Planet Name="MonCalimari">
- 		<Zoomed_Terrain_Index>7</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>7</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_MONCALAMARI</Text_ID>
 		<Galactic_Model_Name>W_planet_Moncalamari01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Moncalamari01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -2079,10 +2079,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_MonCalamari_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_MonCalimari_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1600 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>3</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
@@ -2094,7 +2094,7 @@
 		<Describe_Weather>TEXT_PLANET_MONCALAMARI_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_MONCALAMARI_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_MONCALAMARI_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_MONCALAMARI_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_MONCALAMARI_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_MONCALAMARI_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_MONCALAMARI_ENCYC_01</Planet_Ability_Description>
@@ -2105,7 +2105,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_mon_cal.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Mon_Calamari_Civilian, 400</Potential_Indigenous_Power>
@@ -2123,12 +2123,12 @@
 	</Planet>
 
 	<Planet Name="Naboo">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_NABOO</Text_ID>
 		<Galactic_Model_Name>W_planet_naboo_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -2150,10 +2150,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Naboo_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Naboo_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>2</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
@@ -2164,7 +2164,7 @@
 		<Describe_Weather>TEXT_PLANET_NABOO_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_NABOO_ENCYC_01</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_NABOO_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_NABOO_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_NABOO_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_NABOO_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_NABOO_ENCYC_01</Planet_Ability_Description>
@@ -2175,7 +2175,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_enhanced_t4b_damage.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_gungan.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Gungan_Warrior, 120</Potential_Indigenous_Power>
@@ -2191,12 +2191,12 @@
 	</Planet>
 
 	<Planet Name="NalHutta">
- 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_NALHUTTA</Text_ID>
 		<Galactic_Model_Name>W_planet_Nalhutta01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Nalhutta01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.6</Scale_Factor>
@@ -2218,10 +2218,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_NalHutta_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_NalHutta_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 2400 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>5</Planet_Tech_Availability_Rating>
@@ -2233,7 +2233,7 @@
 		<Describe_Weather>TEXT_PLANET_NALHUTTA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_NALHUTTA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_NALHUTTA_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_NALHUTTA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_NALHUTTA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_NALHUTTA_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ATZERRI_ENCYC_01</Planet_Ability_Description>
@@ -2244,20 +2244,20 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_black_market_influences.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_hutt.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Hutt_Civilian, 360</Potential_Indigenous_Power>
 
 	</Planet>
-	
+
 	<Planet Name="NalHutta_Tutorial_4">
- 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_NALHUTTA</Text_ID>
 		<Galactic_Model_Name>W_planet_Nalhutta01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Nalhutta01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.6</Scale_Factor>
@@ -2279,10 +2279,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_NalHutta_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_NalHutta_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 2400 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>5</Planet_Tech_Availability_Rating>
@@ -2293,7 +2293,7 @@
 		<Describe_Weather>TEXT_PLANET_NALHUTTA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_NALHUTTA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_NALHUTTA_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_NALHUTTA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_NALHUTTA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_NALHUTTA_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_ATZERRI_ENCYC_01</Planet_Ability_Description>
@@ -2304,7 +2304,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_black_market_influences.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_hutt.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
@@ -2313,12 +2313,12 @@
 
 	<Planet Name="Polus">
 		<Native_Icon_Name>load_snow.tga</Native_Icon_Name>
- 		<Zoomed_Terrain_Index>4</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>4</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_POLUS</Text_ID>
 		<Galactic_Model_Name>W_planet_hoth_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -2340,10 +2340,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Polus_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Polus_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 2300 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>0</Planet_Tech_Availability_Rating>
@@ -2354,7 +2354,7 @@
 		<Describe_Weather>TEXT_PLANET_POLUS_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_POLUS_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_BONADAN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_POLUS_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_POLUS_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_BONADAN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_BONADAN_ENCYC_01</Planet_Ability_Description>
@@ -2364,18 +2364,18 @@
 		<Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SNOW</Encyclopedia_Weather_Name>
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SNOW</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
 
 	<Planet Name="Ryloth">
- 		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_RYLOTH</Text_ID>
 		<Galactic_Model_Name>W_planet_ryloth_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Desert01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -2397,10 +2397,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Ryloth_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Ryloth_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>3</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
@@ -2411,7 +2411,7 @@
 		<Describe_Weather>TEXT_PLANET_RYLOTH_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_RYLOTH_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_RYLOTH_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_RYLOTH_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_RYLOTH_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_RYLOTH_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_RYLOTH_ENCYC_01</Planet_Ability_Description>
@@ -2422,7 +2422,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_WIND</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_stamina_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_twilek.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Twilek_Female, 300</Potential_Indigenous_Power>
@@ -2436,12 +2436,12 @@
 	</Planet>
 
 	<Planet Name="Shola">
- 		<Zoomed_Terrain_Index>3</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>3</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_SHOLA</Text_ID>
 		<Galactic_Model_Name>W_planet_Volcanic01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Volcanic01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -2463,10 +2463,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Shola_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Shola_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 2300 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>0</Planet_Tech_Availability_Rating>
@@ -2479,7 +2479,7 @@
 		<Describe_Weather>TEXT_PLANET_SHOLA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_SHOLA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_SHOLA_INFO_TAC</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_SHOLA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_SHOLA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_SHOLA_INFO_TAC</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_SHOLA_ENCYC</Planet_Ability_Description>
@@ -2490,18 +2490,18 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_ASH</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_tactical_auto_damage.tga</Planet_Ability_Icon>
 		<Native_Icon_Name />
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
 
 	<Planet Name="Sullust">
- 		<Zoomed_Terrain_Index>3</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>3</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_SULLUST</Text_ID>
 		<Galactic_Model_Name>W_planet_Volcanic01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Volcanic01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -2523,10 +2523,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Sullust_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Sullust_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1700 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>3</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>5</Planet_Tech_Availability_Rating>
@@ -2538,7 +2538,7 @@
 		<Describe_Weather>TEXT_PLANET_SULLUST_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_SULLUST_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_SULLUST_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_SULLUST_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_SULLUST_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_SULLUST_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_SULLUST_ENCYC_01</Planet_Ability_Description>
@@ -2549,7 +2549,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_ASH</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_sullustian.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Sullustan_Civilian, 100</Potential_Indigenous_Power>
@@ -2567,12 +2567,12 @@
 	</Planet>
 
 	<Planet Name="Taris">
- 		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_TARIS</Text_ID>
 		<Galactic_Model_Name>W_planet_taris01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_taris01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.6</Scale_Factor>
@@ -2594,10 +2594,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Taris_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Taris_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 2400 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>2</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
@@ -2609,7 +2609,7 @@
 		<Describe_Weather>TEXT_PLANET_TARIS_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_TARIS_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_TARIS_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_TARIS_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_TARIS_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_TARIS_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_TARIS_ENCYC_01</Planet_Ability_Description>
@@ -2620,7 +2620,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Urban_Civilian_A, 300</Potential_Indigenous_Power>
@@ -2638,12 +2638,12 @@
 	</Planet>
 
 	<Planet Name="Tatooine">
- 		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>1</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_TATOOINE</Text_ID>
 		<Galactic_Model_Name>W_planet_tatooine_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Desert01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -2665,21 +2665,21 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Tatooine_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Tatooine_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 900 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>0</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>2</Planet_Tech_Availability_Rating>
-		
+
 		<Describe_Population>TEXT_PLANET_TATOOINE_INFO_POP</Describe_Population>
 		<Describe_Wildlife>TEXT_PLANET_TATOOINE_INFO_WL</Describe_Wildlife>
 		<Describe_Terrain>TEXT_PLANET_TATOOINE_INFO_TER</Describe_Terrain>
 		<Describe_Weather>TEXT_PLANET_TATOOINE_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_TATOOINE_ENCYC_01</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_TATOOINE_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_TATOOINE_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_TATOOINE_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_TATOOINE_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_TATOOINE_ENCYC_01</Planet_Ability_Description>
@@ -2695,7 +2695,7 @@
 		<Potential_Indigenous_Power>Desert_Civilian_A, 200</Potential_Indigenous_Power>
 		<Potential_Indigenous_Power>Rancor, 1000</Potential_Indigenous_Power>
 		<Potential_Indigenous_Power>Sand_Person_Sniper_A, 50</Potential_Indigenous_Power>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="Yes">
@@ -2707,12 +2707,12 @@
 	</Planet>
 
 	<Planet Name="Thyferra">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_THYFERRA</Text_ID>
 		<Galactic_Model_Name>W_planet_thyferra01.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_thyferra01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -2734,10 +2734,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Thyferra_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Thyferra_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1300 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>3</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>3</Planet_Tech_Availability_Rating>
@@ -2748,7 +2748,7 @@
 		<Describe_Weather>TEXT_PLANET_THYFERRA_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_THYFERRA_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_THYFERRA_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_THYFERRA_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_THYFERRA_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_THYFERRA_INFO_ADV</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_MANAAN_HEAL</Planet_Ability_Description>
@@ -2759,18 +2759,18 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_tactical_heal_Infantry.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_urban.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 	</Planet>
 
 	<Planet Name="VergessoAsteroids">
- 		<Zoomed_Terrain_Index>8</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>8</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_VERGESSO</Text_ID>
 		<Galactic_Model_Name>W_planet_Asteroids.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Asteroids.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -2793,7 +2793,7 @@
 		<Force_Strength>0.0</Force_Strength>
 
 		<!-- Unique case: Already asteroids, so Death Star can't blow them up like other planets -->
-		<Planet_Is_Destroyable_By_TSW> No </Planet_Is_Destroyable_By_TSW> 
+		<Planet_Is_Destroyable_By_TSW> No </Planet_Is_Destroyable_By_TSW>
 
 		<Planet_Surface_Accessible> No </Planet_Surface_Accessible>
 		<!-- If you abandon this planet, you will not retain political control -->
@@ -2812,7 +2812,7 @@
 		<Describe_Weather>TEXT_PLANET_VERGESSO_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_VERGESSO_ENCYC_01</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_VERGESSO_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_VERGESSO_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_VERGESSO_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_VERGESSO_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_VERGESSO_ENCYC_01</Planet_Ability_Description>
@@ -2823,7 +2823,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_improved_weapons.tga</Planet_Ability_Icon>
 
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Abilities SubObjectList="Yes">
@@ -2835,12 +2835,12 @@
 	</Planet>
 
 	<Planet Name="Wayland">
- 		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_WAYLAND</Text_ID>
 		<Galactic_Model_Name>W_planet_wayland_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -2862,10 +2862,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Wayland_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Wayland_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 2300 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>0</Planet_Tech_Availability_Rating>
@@ -2877,7 +2877,7 @@
 		<Describe_Weather>TEXT_PLANET_CORUSCANT_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_WAYLAND_ENCYC_01</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_WAYLAND_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_WAYLAND_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_WAYLAND_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_WAYLAND_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_WAYLAND_ENCYC_01</Planet_Ability_Description>
@@ -2888,7 +2888,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_improved_treads.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 200</Potential_Indigenous_Power>
@@ -2902,12 +2902,12 @@
 	</Planet>
 
 	<Planet Name="Yavin">
- 		<Zoomed_Terrain_Index>5</Zoomed_Terrain_Index>
+		<Zoomed_Terrain_Index>5</Zoomed_Terrain_Index>
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_YAVIN</Text_ID>
 		<Galactic_Model_Name>W_planet_yavinIV_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Forest01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.3</Scale_Factor>
@@ -2929,10 +2929,10 @@
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
-		
+
 		<Space_Tactical_Map>_Space_Planet_Yavin_01.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_Planet_Yavin_02.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 1700 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>2</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>0</Planet_Tech_Availability_Rating>
@@ -2944,7 +2944,7 @@
 		<Describe_Weather>TEXT_PLANET_YAVIN_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_YAVIN_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_YAVIN_INFO_ADV_01</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_YAVIN_INFO_HIS_01</Describe_History>  
+		<Describe_History>TEXT_PLANET_YAVIN_INFO_HIS_01</Describe_History>
 
 		<Planet_Ability_Name>TEXT_PLANET_YAVIN_INFO_ADV_01</Planet_Ability_Name>
 		<Planet_Ability_Description>TEXT_PLANET_YAVIN_ENCYC_01</Planet_Ability_Description>
@@ -2955,7 +2955,7 @@
 		<Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
 		<Planet_Ability_Icon>i_pa_enhanced_fighter_shields.tga</Planet_Ability_Icon>
 		<Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
-		
+
 		<Additional_Population_Capacity>5</Additional_Population_Capacity>
 
 		<Potential_Indigenous_Power>Swamp_Civilian_A, 150</Potential_Indigenous_Power>
@@ -2970,14 +2970,14 @@
 	</Planet>
 
 
-<!-- Duplicate planets used for demos.  DO NOT USE THESE FOR THE FINAL GAME! -->
+	<!-- Duplicate planets used for demos.  DO NOT USE THESE FOR THE FINAL GAME! -->
 
 	<Planet Name="Tatooine_E3">
 		<Text_ID>TEXT_OBJECT_STAR_SYSTEM_TATOOINE</Text_ID>
 		<Galactic_Model_Name>W_planet_tatooine_low.alo</Galactic_Model_Name>
 		<Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
 		<GUI_Model_Name>W_planet_Desert01.alo</GUI_Model_Name>
-        <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+		<Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
 		<Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
 		<Mass>1.0</Mass>
 		<Scale_Factor>1.8</Scale_Factor>
@@ -3002,7 +3002,7 @@
 
 		<Space_Tactical_Map>_Space_Planet_Tatooine.ted</Space_Tactical_Map>
 		<Land_Tactical_Map> _Land_E3_TAT4.ted </Land_Tactical_Map>
-		
+
 		<Planet_Capture_Bonus_Reward> 900 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>0</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>2</Planet_Tech_Availability_Rating>
@@ -3015,7 +3015,7 @@
 		<Describe_Weather>TEXT_PLANET_TATOOINE_INFO_WEA</Describe_Weather>
 		<Describe_Tactical>TEXT_PLANET_TATOOINE_INFO_TAC</Describe_Tactical>
 		<Describe_Advantage>TEXT_PLANET_TATOOINE_INFO_ADV</Describe_Advantage>
-		<Describe_History>TEXT_PLANET_TATOOINE_INFO_HIS</Describe_History>  
+		<Describe_History>TEXT_PLANET_TATOOINE_INFO_HIS</Describe_History>
 
 		<Encyclopedia_Text> TEXT_PLANET_TATOOINE_ENCYC </Encyclopedia_Text>
 

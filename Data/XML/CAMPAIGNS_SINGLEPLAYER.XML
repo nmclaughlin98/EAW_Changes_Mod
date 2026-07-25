@@ -107,7 +107,7 @@
 		<Starting_Forces> Rebel, Shola, Corellian_Corvette </Starting_Forces>
 
 		<!-- Rebel Space Forces -->
-		<Starting_Forces> Rebel, MonCalimari, Rebel_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Rebel, MonCalimari, Rebel_Star_Base_3 </Starting_Forces>
 		<Starting_Forces> Rebel, MonCalimari, Rebel_X-Wing_Squadron </Starting_Forces>
 		<Starting_Forces> Rebel, MonCalimari, Rebel_X-Wing_Squadron </Starting_Forces>
 		<Starting_Forces> Rebel, MonCalimari, Y-Wing_Squadron </Starting_Forces>
@@ -4080,9 +4080,10 @@
 
 
 		<!-- Empire Space Forces -->
-		<Starting_Forces> Empire, Kuat, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Kuat, Empire_Star_Base_4 </Starting_Forces>
 		<Starting_Forces> Empire, Kuat, Tartan_Patrol_Cruiser </Starting_Forces>
 		<Starting_Forces> Empire, Kuat, Acclamator_Assault_Ship </Starting_Forces>
+		<Starting_Forces> Empire, Kuat, Star_Destroyer </Starting_Forces>
 		<!-- Empire Land Forces -->
 		<Starting_Forces> Empire, Kuat, E_Ground_Light_Vehicle_Factory </Starting_Forces>
 		<Starting_Forces> Empire, Kuat, Imperial_Heavy_Scout_Squad </Starting_Forces>
@@ -4145,7 +4146,7 @@
 		<Camera_Distance> 1200.0 </Camera_Distance>
 
 		<Locations> Galaxy_Core_Art_Model, Alderaan, AlzocIII, Anaxes, Atzerri, Bespin, Bonadan,
-			Byss, Corellia, Coruscant, Dagobah, Fondor, Hoth, Jabiim, Korriban, MonCalimari,
+			Byss, Corellia, CoruscantCoruscant, Dagobah, Fondor, Hoth, Jabiim, Korriban, MonCalimari,
 			NalHutta, Ryloth, Shola, Thyferra, Wayland, Yavin </Locations>
 
 		<Trade_Routes> Wayland_AlzocIII, Atzerri_Thyferra, Fondor_Anaxes, Dagobah_Byss,

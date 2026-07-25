@@ -18,7 +18,7 @@
         <IsBuildable>No</IsBuildable>
         <Spawn_Planet>Coruscant</Spawn_Planet>
         <Size_Value>75</Size_Value>
-        <Damage>50</Damage>
+        <Damage>60</Damage>
         <Autoresolve_Health>200</Autoresolve_Health>
         <Lua_Script>Tarkin</Lua_Script>
 
@@ -167,6 +167,7 @@
         <Encyclopedia_Good_Against> Corellian_Corvette Corellian_Gunboat Marauder_Missile_Cruiser </Encyclopedia_Good_Against>
         <Encyclopedia_Vulnerable_To> Y-wing </Encyclopedia_Vulnerable_To>
         <Icon_Name>i_button_yularen.tga</Icon_Name>
+        <Formation_Priority>5</Formation_Priority>
 
         <Is_Named_Hero>Yes</Is_Named_Hero>
 
