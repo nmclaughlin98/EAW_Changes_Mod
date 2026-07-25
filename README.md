@@ -1,25 +1,23 @@
 # EAW_Changes_Mod
 
-A community mod for Star Wars: Empire at War (compatible with Forces of Corruption) that adds new units, balance tweaks, and gameplay enhancements to refresh the vanilla experience while preserving core balance.
+A custom mod for Star Wars: Empire at War (compatible with Forces of Corruption) that adds new units, balance tweaks, and gameplay enhancements to refresh the vanilla experience while preserving core balance.
 
 ## Overview
 
 This mod introduces new capital ships, ground and space units, hero units, and campaign/skirmish balance adjustments. Changes focus on adding strategic variety without breaking multiplayer compatibility.
 
-## Features
+### New Heroes
+- **Colonel Wulff Yularen** - A veteran commander from the Clone Wars, and head of the ISB. Colonel Yularen brings decades of strategic command to the Imperial fleet, commanding The Resolute, an enhanced Venator-class Star Destroyer.
 
-- New hero units with unique abilities and fleet buffs.
-- New capital ships and support cruisers with hangars and custom hardpoints.
-- New fighter and bomber variants per faction.
-- Reworked hardpoints and weapon stats for selected ships.
-- Ground unit balance and cost adjustments.
-- Minor visual and SFX swaps for select characters and weapons.
+### New Units
+- **Venator-class Star Destroyer** - Heavy attack cruiser from The Clone Wars, formerly commanded by Jedi Generals featuring massive hangars, which provide significant starfighter support, making it perfect for escorting larger capital ships. Garrison includes:
+    - **Empire Y-Wings** - New Empire fighter variant with specialized bombing capabilities
+    - **Empire V-Wings** - New Empire fighter variant
+
+### Changes to Existing Units
+- **Home One and Mon Calamari Cruisers** - Now equipped with a hangar to deploy star fighters
 
 ## Notable Additions
-
-- "Resolute"-style heavy cruiser: large hangar capacity and strong anti-fighter armament.
-- Faction-specific bomber and interceptor variants.
-- Veteran commander hero unit granting fleet-wide bonuses while alive.
 - Mon Calamari cruisers updated to include hangar functionality.
 
 ## Modified Files
