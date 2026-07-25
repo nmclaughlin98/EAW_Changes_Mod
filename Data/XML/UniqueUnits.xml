@@ -2055,7 +2055,7 @@
 
         <Score_Cost_Credits>300</Score_Cost_Credits>
 
-        <Damage>15</Damage> <!-- Obsolete, but required for"combatant" behavior, which lets the AI use a unit -->
+        <Damage>15</Damage>
 
         <Vehicle_Thief_Inside_Clone>Swamp_Speeder_Captured</Vehicle_Thief_Inside_Clone>
 
