@@ -10,5 +10,5 @@ Example
 
 ## v1.0.1 — 25/07/2026
 
-- Fixing structure and bumping bersion
+- Fixing structure and bumping version
 
