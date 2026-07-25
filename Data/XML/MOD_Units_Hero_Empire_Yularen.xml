@@ -18,7 +18,7 @@
         <IsBuildable>No</IsBuildable>
         <Spawn_Planet>Coruscant</Spawn_Planet>
         <Size_Value>75</Size_Value>
-        <Damage>80</Damage>
+        <Damage>60</Damage>
         <Autoresolve_Health>200</Autoresolve_Health>
         <Lua_Script>Tarkin</Lua_Script>
 
@@ -128,7 +128,7 @@
 
         <Icon_Name>i_button_grand_moff_tarkin.tga</Icon_Name>
         <Is_Dummy>Yes</Is_Dummy>
-        <Damage>60</Damage>
+        <Damage>50</Damage>
         <Affiliation>Empire</Affiliation>
         <Build_Time_Seconds>0</Build_Time_Seconds>
         <Combat_Power_Value>0</Combat_Power_Value>
@@ -167,6 +167,7 @@
         <Encyclopedia_Good_Against> Corellian_Corvette Corellian_Gunboat Marauder_Missile_Cruiser </Encyclopedia_Good_Against>
         <Encyclopedia_Vulnerable_To> Y-wing </Encyclopedia_Vulnerable_To>
         <Icon_Name>i_button_yularen.tga</Icon_Name>
+        <Formation_Priority>5</Formation_Priority>
 
         <Is_Named_Hero>Yes</Is_Named_Hero>
 
@@ -332,7 +333,7 @@
         <Text_ID>TEXT_UNIT_SD_RESOLUTE</Text_ID>
         <Space_Model_Name>REV_VENATOR.alo</Space_Model_Name>
         <Death_SFXEvent_Start_Die>Unit_Star_Destroyer_Death_SFX</Death_SFXEvent_Start_Die>
-        <Scale_Factor>0.57</Scale_Factor>
+        <Scale_Factor>1.9</Scale_Factor>
         <Layer_Z_Adjust>-300.0</Layer_Z_Adjust>
         <Max_Speed>0.25</Max_Speed>
         <Max_Rate_Of_Turn>0.4</Max_Rate_Of_Turn>
